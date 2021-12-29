@@ -1,0 +1,36 @@
+name: House Keeping
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Setup Node
+        uses: actions/setup-node@v2
+        with:
+          node-version: 16
+
+      - name: Install Dependencies
+        run: cd tools && npm ci
+
+      - name: House Keeping
+        run: npm run housekeeping -C tools
+
+      - name: Commit
+        uses: EndBug/add-and-commit@v4
+        with:
+          message: 'chore: house keeping [bot]'
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Test
+        run: npm run test -C tools
