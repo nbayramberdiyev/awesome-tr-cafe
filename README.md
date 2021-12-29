@@ -1,5 +1,7 @@
 # Awesome TR Café
 
+![housekeeping](https://github.com/nbayramberdiyev/awesome-tr-cafe/actions/workflows/housekeeping.yml/badge.svg)
+
 This repo contains a list of awesome cafés available for work.
 
 Different marker colors represent different download speeds.
