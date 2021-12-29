@@ -1,0 +1,19 @@
+{
+  "name": "awesome-tr-cafe",
+  "version": "1.0.0",
+  "description": "This script automatically does housekeeping work.",
+  "main": "housekeeper.js",
+  "type": "module",
+  "scripts": {
+    "test": "node lint.js",
+    "housekeeping": "node housekeeper.js"
+  },
+  "author": "N. Bayramberdiyev",
+  "license": "MIT",
+  "engines": {
+    "node": ">= 16.0"
+  },
+  "dependencies": {
+    "chalk": "^5.0.0"
+  }
+}
