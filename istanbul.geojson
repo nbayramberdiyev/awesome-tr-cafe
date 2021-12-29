@@ -1,4 +1,119 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Adım Başı Kafe",
+        "Download Speed": "87.99 Mbps",
+        "Speedtest Link": "https://www.speedtest.net/result/12197253204",
+        "Comment (@nbayramberdiyev)": "WC ve priz bulunmakta, hafif müzikli ve ferah bir ortam."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.017438385285992,
+          41.010288896300835
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Caffè Nero (Emaar Square AVM)",
+        "Download Speed": "1.75 Mbps",
+        "Speedtest Link": "https://www.speedtest.net/result/12206701893",
+        "Comment (@nbayramberdiyev)": "AVM içinde hoş bir ortam, ortadaki 6 kişilik masada priz var. WiFi hızı düşük (WiSpotter)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.071622417790934,
+          41.003032863706615
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Mihrimah Kahve",
+        "Download Speed": "102.47 Mbps",
+        "Speedtest Link": "https://www.speedtest.net/result/12233886481",
+        "Comment (@nbayramberdiyev)": "WC ve priz bulunmakta, interneti hızlı ve çalışanları güler yüzlü."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.014150514695913,
+          41.024895252939984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Payedar Çikolata & Kahve",
+        "Download Speed": "24.30 Mbps",
+        "Speedtest Link": "https://www.speedtest.net/result/12245855680",
+        "Menu": "https://payedar.com/specialmenu.php",
+        "Comment (@nbayramberdiyev)": "WC ve priz bulunmakta, hoş bir ortam."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.016369892031534,
+          41.026737953862714
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Nevmekan Selimiye",
+        "Download Speed": "3.42 Mbps",
+        "Speedtest Link": "https://www.speedtest.net/result/12323327882",
+        "Menu": "https://drive.google.com/file/d/18-PczzSEcXAXaeFhjSM4fjQUIUaTsYBp/view",
+        "Comment (@nbayramberdiyev)": "WC ve priz bulunmakta, hafta sonu gürültülü ve kalabalık bir mekan."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.016620888875984,
+          41.010238634315144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Rumi Cafe & Çikolata",
+        "Download Speed": "28.30 Mbps",
+        "Speedtest Link": "https://www.speedtest.net/result/12375284878",
+        "Comment (@nbayramberdiyev)": "WC ve priz bulunmakta, hafif müzikli rahat bir ortam."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.014607848803333,
+          41.02461489419923
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Caffè Nero (Sapphire AVYM)",
+        "Download Speed": "1.95 Mbps",
+        "Speedtest Link": "https://www.speedtest.net/result/12449754861",
+        "Comment (@nbayramberdiyev)": "AVM içinde kalabalık bir ortam, WiFi hızı düşük (WiSpotter)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.006499164417935,
+          41.085141365015325
+        ]
+      }
+    }
+  ]
 }
