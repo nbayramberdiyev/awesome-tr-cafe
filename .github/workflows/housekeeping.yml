@@ -1,4 +1,4 @@
-name: House Keeping
+name: Housekeeping
 
 on:
   push:
@@ -22,13 +22,13 @@ jobs:
       - name: Install Dependencies
         run: cd tools && npm ci
 
-      - name: House Keeping
+      - name: Housekeeping
         run: npm run housekeeping -C tools
 
       - name: Commit
         uses: EndBug/add-and-commit@v4
         with:
-          message: 'chore: house keeping [bot]'
+          message: 'chore: housekeeping [bot]'
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
