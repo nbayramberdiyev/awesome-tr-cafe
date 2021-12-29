@@ -25,7 +25,7 @@ Different marker colors represent different download speeds.
 
 Click the link below to view it on GitHub.
 
-* [İstanbul (0)](istanbul.geojson)
+* [İstanbul (7)](istanbul.geojson)
 
 ## Contributing
 

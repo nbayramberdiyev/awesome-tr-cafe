@@ -7,7 +7,9 @@
         "Name": "Adım Başı Kafe",
         "Download Speed": "87.99 Mbps",
         "Speedtest Link": "https://www.speedtest.net/result/12197253204",
-        "Comment (@nbayramberdiyev)": "WC ve priz bulunmakta, hafif müzikli ve ferah bir ortam."
+        "Comment (@nbayramberdiyev)": "WC ve priz bulunmakta, hafif müzikli ve ferah bir ortam.",
+        "marker-color": "#50C240",
+        "marker-symbol": "cafe"
       },
       "geometry": {
         "type": "Point",
@@ -23,7 +25,9 @@
         "Name": "Caffè Nero (Emaar Square AVM)",
         "Download Speed": "1.75 Mbps",
         "Speedtest Link": "https://www.speedtest.net/result/12206701893",
-        "Comment (@nbayramberdiyev)": "AVM içinde hoş bir ortam, ortadaki 6 kişilik masada priz var. WiFi hızı düşük (WiSpotter)."
+        "Comment (@nbayramberdiyev)": "AVM içinde hoş bir ortam, ortadaki 6 kişilik masada priz var. WiFi hızı düşük (WiSpotter).",
+        "marker-color": "#C24740",
+        "marker-symbol": "cafe"
       },
       "geometry": {
         "type": "Point",
@@ -39,7 +43,9 @@
         "Name": "Mihrimah Kahve",
         "Download Speed": "102.47 Mbps",
         "Speedtest Link": "https://www.speedtest.net/result/12233886481",
-        "Comment (@nbayramberdiyev)": "WC ve priz bulunmakta, interneti hızlı ve çalışanları güler yüzlü."
+        "Comment (@nbayramberdiyev)": "WC ve priz bulunmakta, interneti hızlı ve çalışanları güler yüzlü.",
+        "marker-color": "#50C240",
+        "marker-symbol": "cafe"
       },
       "geometry": {
         "type": "Point",
@@ -56,7 +62,9 @@
         "Download Speed": "24.30 Mbps",
         "Speedtest Link": "https://www.speedtest.net/result/12245855680",
         "Menu": "https://payedar.com/specialmenu.php",
-        "Comment (@nbayramberdiyev)": "WC ve priz bulunmakta, hoş bir ortam."
+        "Comment (@nbayramberdiyev)": "WC ve priz bulunmakta, hoş bir ortam.",
+        "marker-color": "#50C240",
+        "marker-symbol": "cafe"
       },
       "geometry": {
         "type": "Point",
@@ -73,7 +81,9 @@
         "Download Speed": "3.42 Mbps",
         "Speedtest Link": "https://www.speedtest.net/result/12323327882",
         "Menu": "https://drive.google.com/file/d/18-PczzSEcXAXaeFhjSM4fjQUIUaTsYBp/view",
-        "Comment (@nbayramberdiyev)": "WC ve priz bulunmakta, hafta sonu gürültülü ve kalabalık bir mekan."
+        "Comment (@nbayramberdiyev)": "WC ve priz bulunmakta, hafta sonu gürültülü ve kalabalık bir mekan.",
+        "marker-color": "#C24740",
+        "marker-symbol": "cafe"
       },
       "geometry": {
         "type": "Point",
@@ -89,7 +99,9 @@
         "Name": "Rumi Cafe & Çikolata",
         "Download Speed": "28.30 Mbps",
         "Speedtest Link": "https://www.speedtest.net/result/12375284878",
-        "Comment (@nbayramberdiyev)": "WC ve priz bulunmakta, hafif müzikli rahat bir ortam."
+        "Comment (@nbayramberdiyev)": "WC ve priz bulunmakta, hafif müzikli rahat bir ortam.",
+        "marker-color": "#50C240",
+        "marker-symbol": "cafe"
       },
       "geometry": {
         "type": "Point",
@@ -105,7 +117,9 @@
         "Name": "Caffè Nero (Sapphire AVYM)",
         "Download Speed": "1.95 Mbps",
         "Speedtest Link": "https://www.speedtest.net/result/12449754861",
-        "Comment (@nbayramberdiyev)": "AVM içinde kalabalık bir ortam, WiFi hızı düşük (WiSpotter)."
+        "Comment (@nbayramberdiyev)": "AVM içinde kalabalık bir ortam, WiFi hızı düşük (WiSpotter).",
+        "marker-color": "#C24740",
+        "marker-symbol": "cafe"
       },
       "geometry": {
         "type": "Point",
