@@ -135,7 +135,9 @@
         "Name": "Starbucks (Kadıköy)",
         "Download Speed": "17.12 Mbps",
         "Speedtest Link": "https://www.speedtest.net/result/12562194048",
-        "Comment (@nbayramberdiyev)": "Kalabalık bir ortam. Giriş katı hariç tüm katlarda priz var."
+        "Comment (@nbayramberdiyev)": "Kalabalık bir ortam. Giriş katı hariç tüm katlarda priz var.",
+        "marker-color": "#50C240",
+        "marker-symbol": "cafe"
       },
       "geometry": {
         "type": "Point",
