@@ -128,6 +128,22 @@
           41.085141365015325
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Starbucks (Kadıköy)",
+        "Download Speed": "17.12 Mbps",
+        "Speedtest Link": "https://www.speedtest.net/result/12562194048",
+        "Comment (@nbayramberdiyev)": "Kalabalık bir ortam. Giriş katı hariç tüm katlarda priz var."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.023432694493653,
+          40.990623520526185
+        ]
+      }
     }
   ]
 }
