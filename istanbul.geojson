@@ -153,7 +153,9 @@
         "Name": "Tahta Kahve",
         "Download Speed": "18.80 Mbps",
         "Speedtest Link": "https://www.speedtest.net/result/12570167096",
-        "Comment (@nbayramberdiyev)": "Sakin bir ortam ama uzun süre çalışmak için elverişli değil."
+        "Comment (@nbayramberdiyev)": "Sakin bir ortam ama uzun süre çalışmak için elverişli değil.",
+        "marker-color": "#50C240",
+        "marker-symbol": "cafe"
       },
       "geometry": {
         "type": "Point",
