@@ -146,6 +146,22 @@
           40.990623520526185
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Tahta Kahve",
+        "Download Speed": "18.80 Mbps",
+        "Speedtest Link": "https://www.speedtest.net/result/12570167096",
+        "Comment (@nbayramberdiyev)": "Sakin bir ortam ama uzun süre çalışmak için elverişli değil."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.01729110797001,
+          41.01049751426256
+        ]
+      }
     }
   ]
 }
