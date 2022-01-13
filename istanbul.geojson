@@ -171,7 +171,9 @@
         "Name": "Starbucks (Capitol AVM, 1. Kat)",
         "Download Speed": "27.66 Mbps",
         "Speedtest Link": "https://www.speedtest.net/result/12601563844",
-        "Comment (@zhrballi)": "AVM içinde küçük bir mekan. Fazla çalışılabilecek masa yok. Sakin saatlerde tercih edilebilir."
+        "Comment (@zhrballi)": "AVM içinde küçük bir mekan. Fazla çalışılabilecek masa yok. Sakin saatlerde tercih edilebilir.",
+        "marker-color": "#50C240",
+        "marker-symbol": "cafe"
       },
       "geometry": {
         "type": "Point",
