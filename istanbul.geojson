@@ -182,6 +182,23 @@
           41.02090067301587
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Demlik Cafe (Axis AVM)",
+        "Download Speed": "35.98 Mbps",
+        "Speedtest Link": "https://www.speedtest.net/result/12606311139",
+        "Menu": "https://qrmenu.cyberistanbul.com/categories/NDg=/com.cyberistanbul.demlik",
+        "Comment (@nbayramberdiyev)": "AVM içinde hoş bir ortam. Priz bulunmakta."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.98153624663095,
+          41.08639498918508
+        ]
+      }
     }
   ]
 }
