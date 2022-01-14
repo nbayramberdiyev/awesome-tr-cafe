@@ -190,7 +190,9 @@
         "Download Speed": "35.98 Mbps",
         "Speedtest Link": "https://www.speedtest.net/result/12606311139",
         "Menu": "https://qrmenu.cyberistanbul.com/categories/NDg=/com.cyberistanbul.demlik",
-        "Comment (@nbayramberdiyev)": "AVM içinde hoş bir ortam. Priz bulunmakta."
+        "Comment (@nbayramberdiyev)": "AVM içinde hoş bir ortam. Priz bulunmakta.",
+        "marker-color": "#50C240",
+        "marker-symbol": "cafe"
       },
       "geometry": {
         "type": "Point",
