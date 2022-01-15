@@ -208,7 +208,9 @@
         "Name": "Caffè Nero (Koşuyolu)",
         "Download Speed": "1.91 Mbps",
         "Speedtest Link": "https://www.speedtest.net/result/12609474623",
-        "Comment (@zhrballi)": "Koşuyolu mahallesinde çok nezih, sessiz ve sakin bir yer. İnternet hızı biraz düşük ama çalışmak için ideal bir ortam."
+        "Comment (@zhrballi)": "Koşuyolu mahallesinde çok nezih, sessiz ve sakin bir yer. İnternet hızı biraz düşük ama çalışmak için ideal bir ortam.",
+        "marker-color": "#C24740",
+        "marker-symbol": "cafe"
       },
       "geometry": {
         "type": "Point",
