@@ -219,6 +219,22 @@
           41.00943814825699
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Tarihi Kuzguncuk Fırını (Nevçarşı AVM)",
+        "Download Speed": "104.39 Mbps",
+        "Speedtest Link": "https://www.speedtest.net/result/12682921401",
+        "Comment (@zhrballi)": "Nevçarşı AVM girişinde sessiz ve sakin bir yer. Hafta sonu bile çok kalabalık değil."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.02089467116363,
+          41.02030394733032
+        ]
+      }
     }
   ]
 }
