@@ -237,6 +237,22 @@
           41.02030394733032
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Kadim Kahve",
+        "Download Speed": "24.86 Mbps",
+        "Speedtest Link": "https://www.speedtest.net/result/12692619143",
+        "Comment (@nbayramberdiyev)": "Geniş ve sakin bir mekan. Priz bulunmakta."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.01586290000001,
+          41.02617392954611
+        ]
+      }
     }
   ]
 }
