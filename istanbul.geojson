@@ -244,7 +244,9 @@
         "Name": "Kadim Kahve",
         "Download Speed": "24.86 Mbps",
         "Speedtest Link": "https://www.speedtest.net/result/12692619143",
-        "Comment (@nbayramberdiyev)": "Geniş ve sakin bir mekan. Priz bulunmakta."
+        "Comment (@nbayramberdiyev)": "Geniş ve sakin bir mekan. Priz bulunmakta.",
+        "marker-color": "#50C240",
+        "marker-symbol": "cafe"
       },
       "geometry": {
         "type": "Point",
