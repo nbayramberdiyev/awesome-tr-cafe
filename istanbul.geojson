@@ -255,6 +255,22 @@
           41.02617392954611
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Starbucks (Osmanağa mah., Kadıköy)",
+        "Download Speed": "22.31 Mbps",
+        "Speedtest Link": "https://www.speedtest.net/result/12742245519",
+        "Comment (@nbayramberdiyev)": "5 katlı bir yer. Üst katlarda çalışma alanları ve 3. katta bar var. Biraz kalabalık ve gürültülü bir mekan."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.028632492014545,
+          40.989189467558425
+        ]
+      }
     }
   ]
 }
