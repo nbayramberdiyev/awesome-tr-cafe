@@ -39,4 +39,4 @@ Your contributions are always welcome! Please have a look at the [contribution g
 
 ## Acknowledgements
 
-This repo was forked from [awesome-cn-cafe](https://github.com/ElaWorkshop/awesome-cn-cafe). We acknowledge and are grateful to these developers for their contributions.
+This repo was forked from [awesome-cn-cafe](https://github.com/ElaWorkshop/awesome-cn-cafe). We acknowledge and are grateful to the developers for their contributions.
