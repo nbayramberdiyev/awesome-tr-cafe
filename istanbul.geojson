@@ -280,7 +280,9 @@
         "Name": "Dozze Coffee",
         "Download Speed": "37.94 Mbps",
         "Speedtest Link": "https://www.speedtest.net/result/13465927630",
-        "Comment (@nbayramberdiyev)": "Hafif müzikli ve sakin bir mekan. Çalışma masaları, priz ve WC bulunmakta."
+        "Comment (@nbayramberdiyev)": "Hafif müzikli ve sakin bir mekan. Çalışma masaları, priz ve WC bulunmakta.",
+        "marker-color": "#50C240",
+        "marker-symbol": "cafe"
       },
       "geometry": {
         "type": "Point",
