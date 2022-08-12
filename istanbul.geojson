@@ -291,6 +291,22 @@
           41.014763664631865
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Sade Pazar",
+        "Download Speed": "23.49 Mbps",
+        "Speedtest Link": "https://www.speedtest.net/result/13530544959",
+        "Comment (@nbayramberdiyev)": "Çok sakin ve ferah bir mekan. Masalarda priz bulunmakta."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.014964350015337,
+          41.024243602589365
+        ]
+      }
     }
   ]
 }
