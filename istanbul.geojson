@@ -298,7 +298,9 @@
         "Name": "Sade Pazar",
         "Download Speed": "23.49 Mbps",
         "Speedtest Link": "https://www.speedtest.net/result/13530544959",
-        "Comment (@nbayramberdiyev)": "Çok sakin ve ferah bir mekan. Masalarda priz bulunmakta."
+        "Comment (@nbayramberdiyev)": "Çok sakin ve ferah bir mekan. Masalarda priz bulunmakta.",
+        "marker-color": "#50C240",
+        "marker-symbol": "cafe"
       },
       "geometry": {
         "type": "Point",
