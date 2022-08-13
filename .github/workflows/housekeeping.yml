@@ -12,20 +12,21 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v3
+      - name: Checkout repository
+        uses: actions/checkout@v3
 
       - name: Setup Node
         uses: actions/setup-node@v3
         with:
           node-version: 16
 
-      - name: Install Dependencies
+      - name: Install dependencies
         run: cd tools && npm ci
 
       - name: Housekeeping
         run: npm run housekeeping -C tools
 
-      - name: Commit
+      - name: Commit changes
         uses: EndBug/add-and-commit@v4
         with:
           message: 'chore: housekeeping [bot]'
