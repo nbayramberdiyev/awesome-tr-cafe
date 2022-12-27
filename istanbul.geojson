@@ -309,6 +309,22 @@
           41.024243602589365
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Heep's Coffee",
+        "Download Speed": "8.67 Mbps",
+        "Speedtest Link": "https://www.speedtest.net/result/14127453494",
+        "Comment (@nbayramberdiyev)": "Çalışmaya uygun hoş bir mekan. İçeride priz bulunmakta."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.012847285083076,
+          41.025226413375876
+        ]
+      }
     }
   ]
 }
