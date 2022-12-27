@@ -316,7 +316,9 @@
         "Name": "Heep's Coffee",
         "Download Speed": "8.67 Mbps",
         "Speedtest Link": "https://www.speedtest.net/result/14127453494",
-        "Comment (@nbayramberdiyev)": "Çalışmaya uygun hoş bir mekan. İçeride priz bulunmakta."
+        "Comment (@nbayramberdiyev)": "Çalışmaya uygun hoş bir mekan. İçeride priz bulunmakta.",
+        "marker-color": "#F3AE1A",
+        "marker-symbol": "cafe"
       },
       "geometry": {
         "type": "Point",
