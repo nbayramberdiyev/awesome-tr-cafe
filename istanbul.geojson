@@ -334,7 +334,9 @@
         "Name": "Brew Mode Coffee",
         "Download Speed": "4.94 Mbps",
         "Speedtest Link": "https://www.speedtest.net/result/14135848799",
-        "Comment (@nbayramberdiyev)": "Çalışmaya çok uygun bir mekan. İçeride prizli masalar ve sessiz çalışma odası bulunmakta."
+        "Comment (@nbayramberdiyev)": "Çalışmaya çok uygun bir mekan. İçeride prizli masalar ve sessiz çalışma odası bulunmakta.",
+        "marker-color": "#F3AE1A",
+        "marker-symbol": "cafe"
       },
       "geometry": {
         "type": "Point",
