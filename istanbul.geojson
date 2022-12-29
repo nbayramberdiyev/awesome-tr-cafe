@@ -327,6 +327,22 @@
           41.025226413375876
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Brew Mode Coffee",
+        "Download Speed": "4.94 Mbps",
+        "Speedtest Link": "https://www.speedtest.net/result/14135848799",
+        "Comment (@nbayramberdiyev)": "Çalışmaya çok uygun bir mekan. İçeride prizli masalar ve sessiz çalışma odası bulunmakta."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.052571422289358,
+          40.984522412436405
+        ]
+      }
     }
   ]
 }
