@@ -14,6 +14,6 @@
     "node": ">=20.0"
   },
   "dependencies": {
-    "chalk": "^5.2.0"
+    "chalk": "^5.4.1"
   }
 }
