@@ -11,7 +11,7 @@
   "author": "N. Bayramberdiyev",
   "license": "MIT",
   "engines": {
-    "node": ">= 16.0"
+    "node": ">=20.0"
   },
   "dependencies": {
     "chalk": "^5.2.0"
