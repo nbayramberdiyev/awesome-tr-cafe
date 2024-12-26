@@ -5,15 +5,15 @@ This script automatically does houskeeping work:
 - Sets the `marker-symbol` for cafés if it hasn't been set,
 - Updates `README.md` file.
 
-Color  | Hex     | Speed
------- | ------- | -----
-Red    | #C24740 | 0 ~ 4 Mbps
-Yellow | #F3AE1A | 4 ~ 10 Mbps
-Green  | #50C240 | 10+ Mbps
+| Color  | Hex     | Speed       |
+|--------|---------|-------------|
+| Red    | #C24740 | 0 ~ 4 Mbps  |
+| Yellow | #F3AE1A | 4 ~ 10 Mbps |
+| Green  | #50C240 | 10+ Mbps    |
 
 ## Prerequisites
 
-- [Node.js 16+](https://nodejs.org)
+- [Node.js 20+](https://nodejs.org)
 
 ## Installation
 
